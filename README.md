@@ -35,3 +35,10 @@ A pre-compiled binary is available.
 tar -xvf 42sh_release.tar.gz
 chmod +x 42sh
 ./42sh
+```
+
+## 👥 The Team
+* **[Wael Akhdar](https://github.com/Wael-Akhdar)**
+* **[Youcef Zahra](https://github.com/youcefzahra)**
+* **[Jessim Ziani](https://github.com/jessim-ziani)**
+* **[Louis-Maximilien Chappuit](https://github.com/louischap31)**
