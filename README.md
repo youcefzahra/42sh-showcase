@@ -6,10 +6,6 @@
 
 The **42sh** is a major EPITA project requiring the development of a complete UNIX command-line interpreter from scratch, strictly following the POSIX standard. This involves advanced system programming, abstract syntax tree (AST) generation, and process management.
 
-## 💡 My Core Contributions
-
-[⚠️ YOUCEF, DIS-MOI CE QUE TU AS CODÉ EXACTEMENT POUR QUE JE RÉDIGE CETTE PARTIE DE FAÇON TECHNIQUE : Lexer ? Execution ? Redirections ? Built-ins ?]
-
 ## ✨ Technical Features
 
 * **Process Execution:** Binary resolution via `$PATH`, child process creation using `fork`, and execution via `execvp`.
@@ -39,10 +35,3 @@ A pre-compiled binary is available.
 tar -xvf 42sh_release.tar.gz
 chmod +x 42sh
 ./42sh
-```
-
-## 👥 The Team
-* **[Wael Akhdar](https://github.com/Wael-Akhdar)** : Project Manager & AST/Parser
-* **[Youcef Zahra](https://github.com/youcefzahra)** : [Ton rôle précis ici]
-* **[Jessim Ziani](https://github.com/jessim-ziani)** : [Son rôle]
-* **[Louis-Maximilien Chappuit]()** : [Son rôle]
